@@ -6,3 +6,7 @@ for i in range(0,10):
 	print(i)
 	
 os.system('pause')
+
+def myname():
+	pass
+
