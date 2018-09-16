@@ -10,3 +10,6 @@ os.system('pause')
 def myname():
 	pass
 
+class people():
+	pass
+
